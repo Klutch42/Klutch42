@@ -1,4 +1,4 @@
-currently working on AV Machine Learning 
+currently working on AV Machine Learning; my most notable projects in 2025 are: Motion Forecasting for Autonomous Vehicles + Robots && Research stuff
 
 <!--
 **Klutch42/Klutch42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
