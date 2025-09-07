@@ -1,4 +1,4 @@
-## Hi there 👋
+currently working on AV Machine Learning 
 
 <!--
 **Klutch42/Klutch42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
